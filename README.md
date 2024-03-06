@@ -1,4 +1,6 @@
 # deeplarning
+ディープラーニング＋画像処理系コード
+
 DCGAN実装：dcgan.ipynb、事前にdc_gan.pyインストール必須
 
 Grad-CAM実装：grad_cam.ipynb、事前にvgg16.pyインストール必須
